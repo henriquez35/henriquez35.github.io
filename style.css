@@ -340,3 +340,28 @@
    
    
    }
+
+ .intro  {
+    margin: 7px;
+    text-align: center;
+    background-color: #2cdfff ;
+
+ }
+
+ picture {
+    display: inline-block;
+    background-color: #d8c6c6;
+ }
+
+ picture img {
+    max-width: 200px;
+    mix-blend-mode: multiply;
+    filter: grayscale(100%);
+}
+style
+        table,th,td {
+        border: 1px sol solid black
+    }
+
+
+
